@@ -1,3 +1,2 @@
 file saved
 filed cloned
-git reset moved back to unstagged
